@@ -1,0 +1,10 @@
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\bin\Debug\velhas_game.exe.config
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\bin\Debug\velhas_game.exe
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\bin\Debug\velhas_game.pdb
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\obj\Debug\velhas_game.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\obj\Debug\velhas_game.Form1.resources
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\obj\Debug\velhas_game.Properties.Resources.resources
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\obj\Debug\velhas_game.csproj.GenerateResource.cache
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\obj\Debug\velhas_game.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\obj\Debug\velhas_game.exe
+C:\Users\aluno1\Source\Repos\velhas_game\velhas_game\obj\Debug\velhas_game.pdb
